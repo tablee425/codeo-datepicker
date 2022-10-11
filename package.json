@@ -13,7 +13,7 @@
     "native-base": "^2.3.6",
     "prop-types": "^15.6.0",
     "react": "16.0.0",
-    "react-native": "0.51.0",
+    "react-native": "0.70.2",
     "react-native-cardview": "^1.1.5",
     "react-native-keyboard-aware-scroll-view": "^0.4.1",
     "react-native-nav": "^2.0.2",
